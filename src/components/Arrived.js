@@ -4,8 +4,8 @@ function Arrived() {
 			<div className="container mx-auto mb-4">
 				<div className="flex justify-center text-center mb-4">
 					<h3 className="text-2xl capitalize font-semibold">
-						Just Arrived <br className="" />
-						this summer for you
+						Fresh Designed <br className="" />
+						Our best products
 					</h3>
 				</div>
 			</div>
@@ -37,9 +37,9 @@ function Arrived() {
 									className="w-full h-full object-cover object-center"
 								/>
 							</div>
-							<h5 className="text-lg font-semibold mt-4">Cangkir Mauttie</h5>
-							<span className="">IDR 89.300</span>
-							<a href="details.html" className="stretched-link"></a>
+							<h5 className="text-lg font-semibold mt-4">Trophy Acrylic #1</h5>
+							<span className="">IDR 989.300</span>
+							<a href="/detail" className="stretched-link"></a>
 						</div>
 
 						<div className="px-4 relative card group">
@@ -66,9 +66,9 @@ function Arrived() {
 									className="w-full h-full object-cover object-center"
 								/>
 							</div>
-							<h5 className="text-lg font-semibold mt-4">Bankyu Minimay</h5>
-							<span className="">IDR 67.899</span>
-							<a href="details.html" className="stretched-link"></a>
+							<h5 className="text-lg font-semibold mt-4">Trophy Kuningan</h5>
+							<span className="">IDR 367.899</span>
+							<a href="/detail" className="stretched-link"></a>
 						</div>
 
 						<div className="px-4 relative card group">
@@ -95,9 +95,9 @@ function Arrived() {
 									className="w-full h-full object-cover object-center"
 								/>
 							</div>
-							<h5 className="text-lg font-semibold mt-4">Buku Sidu Edition</h5>
-							<span className="">IDR 120.699</span>
-							<a href="details.html" className="stretched-link"></a>
+							<h5 className="text-lg font-semibold mt-4">Trophy Acrylic #3</h5>
+							<span className="">IDR 320.699</span>
+							<a href="/detail" className="stretched-link"></a>
 						</div>
 
 						<div className="px-4 relative card group">
@@ -124,9 +124,9 @@ function Arrived() {
 									className="w-full h-full object-cover object-center"
 								/>
 							</div>
-							<h5 className="text-lg font-semibold mt-4">Watch Notes X</h5>
+							<h5 className="text-lg font-semibold mt-4">Trophy Acrylic #4</h5>
 							<span className="">IDR 1.973.000</span>
-							<a href="details.html" className="stretched-link"></a>
+							<a href="/detail" className="stretched-link"></a>
 						</div>
 
 						<div className="px-4 relative card group">
@@ -153,9 +153,9 @@ function Arrived() {
 									className="w-full h-full object-cover object-center"
 								/>
 							</div>
-							<h5 className="text-lg font-semibold mt-4">Racking Plants</h5>
+							<h5 className="text-lg font-semibold mt-4">Trophy Acrylic #5</h5>
 							<span className="">IDR 599.400</span>
-							<a href="details.html" className="stretched-link"></a>
+							<a href="/detail" className="stretched-link"></a>
 						</div>
 
 						<div className="px-4 relative card group">

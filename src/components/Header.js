@@ -1,13 +1,16 @@
+import { Link } from "react-router-dom";
 function Header() {
 	return (
-		<header className="absolute w-full z-50 px-5">
+		<header className="absolute w-full z-50 px-10">
 			<div className="container mx-auto py-5">
 				<div className="flex flex-stretch items-center">
 					<div className="w-56 items-center flex">
-						<img
-							src="images/content/logo.png"
-							alt="Luxspace | Fulfill your house with beautiful furniture"
-						/>
+						<a href="/">
+							<img
+								src="images/content/logo.png"
+								alt="Luxspace | Fulfill your house with beautiful furniture"
+							/>
+						</a>
 					</div>
 					<div className="w-full"></div>
 					<div className="w-auto">
@@ -16,35 +19,29 @@ function Header() {
 							id="menu">
 							<li className="mx-3 py-6 md:py-0">
 								<a
-									href="#"
+									href="/products"
 									className="text-black md:text-white hover:underline">
-									Showcase
+									Products
 								</a>
 							</li>
 							<li className="mx-3 py-6 md:py-0">
 								<a
-									href="#"
+									href="/"
 									className="text-black md:text-white hover:underline">
-									Catalog
+									Contact
 								</a>
 							</li>
 							<li className="mx-3 py-6 md:py-0">
 								<a
-									href="#"
+									href="/"
 									className="text-black md:text-white hover:underline">
-									Delivery
-								</a>
-							</li>
-							<li className="mx-3 py-6 md:py-0">
-								<a
-									href="#"
-									className="text-black md:text-white hover:underline">
-									Rewards
+									About
 								</a>
 							</li>
 						</ul>
 					</div>
-					<div className="w-auto">
+					{/* Icon Shopping Cart */}
+					{/* <div className="w-auto">
 						<ul className="items-center flex">
 							<li className="ml-6 block md:hidden">
 								<button
@@ -65,7 +62,7 @@ function Header() {
 								<a
 									id="header-cart"
 									className="flex items-center justify-center w-8 h-8 text-black md:text-white"
-									href="cart.html">
+									href="/">
 									<svg
 										className="fill-current"
 										width="26"
@@ -80,7 +77,7 @@ function Header() {
 								</a>
 							</li>
 						</ul>
-					</div>
+					</div> */}
 				</div>
 			</div>
 		</header>
