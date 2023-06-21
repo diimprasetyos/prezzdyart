@@ -8,7 +8,7 @@ function Header() {
 						<a href="/">
 							<img
 								src="images/content/logo.png"
-								alt="Luxspace | Fulfill your house with beautiful furniture"
+								alt="Prezzdy Art | For Your Design Solution"
 							/>
 						</a>
 					</div>
@@ -26,14 +26,14 @@ function Header() {
 							</li>
 							<li className="mx-3 py-6 md:py-0">
 								<a
-									href="/"
+									href="/contact"
 									className="text-black md:text-white hover:underline">
 									Contact
 								</a>
 							</li>
 							<li className="mx-3 py-6 md:py-0">
 								<a
-									href="/"
+									href="/about"
 									className="text-black md:text-white hover:underline">
 									About
 								</a>

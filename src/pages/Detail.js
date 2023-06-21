@@ -11,7 +11,7 @@ function Detail() {
 							<a href="/">
 								<img
 									src="images/content/logo.png"
-									alt="Luxspace | Fulfill your house with beautiful furniture"
+									alt="Prezzdy Art | For Your Design Solution"
 								/>
 							</a>
 						</div>
@@ -101,7 +101,7 @@ function Detail() {
 							<a href="/">Home</a>
 						</li>
 						<li>
-							<a href="/">Trophy</a>
+							<a href="/products">Trophy</a>
 						</li>
 						<li>
 							<a href="/detail" aria-label="current-page">
